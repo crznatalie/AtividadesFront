@@ -1,5 +1,5 @@
 .header {
-    padding: 0 4% 0 4%;
+    padding: 2% 4% 0 4%;
     display: flex;
     flex-wrap:nowrap;
     justify-content: space-around;
@@ -46,19 +46,19 @@
     margin: 2px;
 
 }
-.capa {
+.cover {
     background-color: #e7e6e8;
     height: 40%;
 }
 
-.destaque {
+.buttons {
     display: flex;
     flex-wrap:nowrap;
     justify-content: space-around;
     height: 60px;
 }
 
-.linhas {
+.lines {
     display: contents;
     flex-direction: column;
     justify-content: space-around;
@@ -66,12 +66,12 @@
     height: 40%;
  }
 
- .linha {
+ .line {
     background-color: #e7e6e8;
     height: 15px;
  }
 
- .foto {
+ .scover {
     background-color: #e7e6e8;
     height: 150px;
     margin-bottom: 20px;
